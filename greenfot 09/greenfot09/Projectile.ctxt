@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Projectile
+comment1.params=
+comment1.target=Projectile()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ removeFromWorld()
+comment4.params=direction
+comment4.target=void\ setDirection(int)
+numComments=5
